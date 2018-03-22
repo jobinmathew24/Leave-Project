@@ -1,0 +1,10 @@
+C:\Users\jitinjg\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\jitinjg\Desktop\project\project\bin\Debug\project.exe
+C:\Users\jitinjg\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\jitinjg\Desktop\project\project\bin\Debug\project.xml
+C:\Users\jitinjg\Desktop\project\project\obj\Debug\project.loginform.resources
+C:\Users\jitinjg\Desktop\project\project\obj\Debug\project.Resources.resources
+C:\Users\jitinjg\Desktop\project\project\obj\Debug\project.vbproj.GenerateResource.Cache
+C:\Users\jitinjg\Desktop\project\project\obj\Debug\project.exe
+C:\Users\jitinjg\Desktop\project\project\obj\Debug\project.xml
+C:\Users\jitinjg\Desktop\project\project\obj\Debug\project.pdb
